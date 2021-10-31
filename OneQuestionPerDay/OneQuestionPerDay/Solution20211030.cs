@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    class Soltion2021
+    class Solution20211030
     {
         /// <summary>
         /// 260. 只出现一次的数字 III

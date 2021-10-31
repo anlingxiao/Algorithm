@@ -6,7 +6,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Solution20211031 solution = new Solution20211031();
+            solution.FindWords(new string[] { "Hello", "Alaska", "Dad", "Peace" });
         }
     }
 }
