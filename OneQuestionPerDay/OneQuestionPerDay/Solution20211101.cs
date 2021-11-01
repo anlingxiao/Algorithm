@@ -16,7 +16,6 @@
         public int DistributeCandies(int[] candyType)
         {
             HashSet<int> hs = new HashSet<int>();
-            int c = 0;
             int n = candyType.Length;
             for (int i = 0; i < n; i++)
             {
